@@ -11,8 +11,8 @@
 
 ## 🎯 Purpose
 
-This project was developed to **recreate the modern 2019 Google homepage** using only **HTML and CSS**.  
-The goal is to understand **modern web design principles**, practice **responsive design**, and explore **current layout structures**.
+This project was developed to [recreate the modern 2019 Google homepage](https://web.archive.org/web/20191130234759/https://www.google.com/) using only HTML and CSS.  
+The goal is to understand modern web design principles, practice responsive design, and explore current layout structures.
 
 ---
 
