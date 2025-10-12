@@ -4,11 +4,13 @@
   --color-navbar-a: #202124;
   --color-navbar-button-bg: #1a73e8;
   --color-footer-bg: #f2f2f2;
+  --color-footer-a: #70757a;
+  --color-section-button-bg: #f2f2f2;
+  --color-section-button: #5f6368;
 }
 body {
   font-family: arial, sans-serif;
   margin: 0;
-  padding: 0;
 }
 header {
   width: 100%;
@@ -17,22 +19,18 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 20px;
-  padding-left: 10px;
-  padding-right: 30px;
+  padding: 10px 30px 10px 10px;
 }
 #nav-bar a {
   margin-left: 15px;
-  text-decoration: none;
   color: var(--color-navbar-a);
   font-size: 13px;
+  text-decoration: none;
 }
 
 #nav-bar a:hover {
   text-decoration: underline;
 }
-
-/* Sign in butonu */
 
 #nav-bar button {
   margin-left: 15px;
@@ -51,8 +49,8 @@ main {
 }
 
 #logo img {
-  width: 300px;
-  padding-top: 60px;
+  width: 310px;
+  margin-top: 60px;
 }
 
 .search-container {
@@ -64,7 +62,8 @@ main {
 
 .search-box {
   position: relative;
-  width: 580px;
+  width: 100%;
+  max-width: 584px;
   display: flex;
   align-items: center;
   border: 1px solid #dfe1e5;
@@ -113,10 +112,10 @@ main {
 }
 
 section button {
-  background-color: #f2f2f2;
+  background-color: var(--color-section-button-bg);
   border: 1px solid #f2f2f2;
   border-radius: 4px;
-  color: #5f6368;
+  color: var(--color-section-button);
   padding: 8px 16px;
   font-size: 14px;
   cursor: pointer;
@@ -128,7 +127,6 @@ section button:hover {
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 
-/* Footer  */
 footer {
   display: flex;
   justify-content: space-between;
@@ -146,10 +144,19 @@ footer {
 footer a {
   margin-left: 17px;
   text-decoration: none;
-  color: #70757a;
+  color: var(--color-footer-a);
   font-size: 15px;
 }
 
 footer a:hover {
   text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .search-box {
+    width: 90%;
+  }
+  #nav-bar {
+    padding: 10px 20px;
+  }
 }
