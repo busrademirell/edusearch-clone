@@ -149,10 +149,10 @@ footer img {
   align-items: center;
 }
 footer a {
-  margin-left: 17px;
   text-decoration: none;
   font-size: 17px;
   color: #000000;
+  margin-left: 5px;
 }
 
 footer a:hover {
