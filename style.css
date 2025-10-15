@@ -140,12 +140,19 @@ footer {
   border-top: 1px solid #dadce0;
   box-sizing: border-box;
 }
-
+footer img {
+  width: 30px;
+}
+#middle-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 footer a {
   margin-left: 17px;
   text-decoration: none;
-  color: var(--color-footer-a);
-  font-size: 15px;
+  font-size: 17px;
+  color: #000000;
 }
 
 footer a:hover {
