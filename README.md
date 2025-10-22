@@ -51,7 +51,7 @@ Open the index.html file in your browser to view the project.
 
 ---
 
-## ℹ️ Usage Notes
+## ⚠️ Disclaimer
 
 - The project is **for educational and practice purposes only** and is not intended for commercial use.
 

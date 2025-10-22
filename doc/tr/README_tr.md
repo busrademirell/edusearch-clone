@@ -51,7 +51,7 @@ cd proje-adi
 
 ---
 
-## ℹ️ Kullanım Notları
+## ⚠️ Sorumluluk Reddi
 
 - Proje **yalnızca eğitim ve deneyim amaçlıdır**; ticari kullanım için uygun değildir.
 - Tasarım ve kod yapısı, öğrenme sürecini kolaylaştıracak şekilde **sade tutulmuştur**.
