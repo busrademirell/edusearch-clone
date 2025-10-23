@@ -1,8 +1,8 @@
  <p align="center">
-  <a href="https://github.com/busrademirell/edusearch-clone/blob/master/README.md">
+  <a href="https://github.com/busrademirell/modern-search-clone/blob/master/README.md">
     <img alt="downloads" src="https://img.shields.io/badge/English-En-blue" target="_blank" />
   </a>
-  <a href="https://github.com/busrademirell/edusearch-clone/blob/master/doc/tr/README_tr.md">
+  <a href="https://github.com/busrademirell/modern-search-clone/blob/master/doc/tr/README_tr.md">
     <img alt="License: MIT" src="https://img.shields.io/badge/Turkish-Tr-red" target="_blank" />
   </a>
 </p>
@@ -34,7 +34,7 @@ Bu proje, 2019 dönemine ait modern bir arama motoru ana sayfasının tasarım v
 1. Repoyu bilgisayarınıza klonlayın:
 
 ```bash
-git clone https://github.com/busrademirell/edusearch-clone.git
+git clone https://github.com/busrademirell/modern-search-clone.git
 
 ```
 
