@@ -1,18 +1,17 @@
  <p align="center">
-  <a href="https://github.com/busrademirell/google-clone/blob/master/README.md">
+  <a href="https://github.com/busrademirell/edusearch-clone/blob/master/README.md">
     <img alt="downloads" src="https://img.shields.io/badge/English-En-blue" target="_blank" />
   </a>
-  <a href="https://github.com/busrademirell/google-clone/blob/master/doc/tr/README_tr.md">
+  <a href="https://github.com/busrademirell/edusearch-clone/blob/master/doc/tr/README_tr.md">
     <img alt="License: MIT" src="https://img.shields.io/badge/Turkish-Tr-red" target="_blank" />
   </a>
 </p>
  
-# Google 2019 Clone
+# Modern Search Homepage Clone
 
 ## 🎯 Purpose
 
-This project was developed to [recreate the modern 2019 Google homepage](https://web.archive.org/web/20191130234759/https://www.google.com/) using only HTML and CSS.  
-The goal is to understand modern web design principles, practice responsive design, and explore current layout structures.
+This project was developed to recreate the design and layout of a modern 2019 search engine homepage, inspired by classic minimalist web interfaces. The reference design is taken from a [Wayback Machine archived page](https://web.archive.org/web/20191130234759/https://www.google.com/) to study early modern web aesthetics. The main goal is to practice responsive design, understand layout structures, and strengthen HTML & CSS fundamentals.
 
 ---
 
@@ -25,10 +24,10 @@ The goal is to understand modern web design principles, practice responsive desi
 
 ## ✨ Features
 
-- Minimalist and clean design inspired by the 2019 Google homepage
-- Responsive layout (adaptable to different screen sizes)
-- Search bar, logo, and icon positioning similar to the original
-- Layout and alignment created using modern CSS techniques
+- Minimalist and clean design inspired by modern 2019-style search engine layouts
+- Responsive layout (adapts seamlessly to different screen sizes)
+- Search bar, logo, and icon positioning designed for educational practice
+- Layout and alignment implemented using modern CSS techniques
 
 ---
 
@@ -37,7 +36,7 @@ The goal is to understand modern web design principles, practice responsive desi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/busrademirell/google-clone.git
+git clone https://github.com/busrademirell/edusearch-clone.git
 
 ```
 

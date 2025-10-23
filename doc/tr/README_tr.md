@@ -1,8 +1,8 @@
  <p align="center">
-  <a href="https://github.com/busrademirell/google-clone/blob/master/README.md">
+  <a href="https://github.com/busrademirell/edusearch-clone/blob/master/README.md">
     <img alt="downloads" src="https://img.shields.io/badge/English-En-blue" target="_blank" />
   </a>
-  <a href="https://github.com/busrademirell/google-clone/blob/master/doc/tr/README_tr.md">
+  <a href="https://github.com/busrademirell/edusearch-clone/blob/master/doc/tr/README_tr.md">
     <img alt="License: MIT" src="https://img.shields.io/badge/Turkish-Tr-red" target="_blank" />
   </a>
 </p>
@@ -11,10 +11,7 @@
 
 ## 🎯 Amaç
 
-Bu proje, [2019 yılındaki modern Google ana sayfasının](https://web.archive.org/web/20191130234759/https://www.google.com/) yalnızca HTML ve CSS kullanılarak yeniden oluşturulması amacıyla geliştirilmiştir.  
-Amaç, modern web tasarım ilkelerini anlamak, responsive (duyarlı) tasarım pratiği yapmak ve güncel arayüz düzenlerini incelemektir.
-
----
+Bu proje, 2019 dönemine ait modern bir arama motoru ana sayfasının tasarım ve düzenini yeniden oluşturmak amacıyla geliştirilmiştir.Tasarım referansı olarak, [Wayback Machine arşivinde yer alan](https://web.archive.org/web/20191130234759/https://www.google.com/) 2019 yılına ait bir sayfa kullanılmıştır. Projenin temel hedefi, responsive tasarımı uygulamak, sayfa düzeni yapısını anlamak ve HTML ile CSS becerilerini güçlendirmektir.
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -25,10 +22,10 @@ Amaç, modern web tasarım ilkelerini anlamak, responsive (duyarlı) tasarım pr
 
 ## ✨ Özellikler
 
-- 2019 Google ana sayfasına benzer minimalist ve sade tasarım
-- Responsive yapı (farklı ekran boyutlarına uyumlu)
-- Arama çubuğu, logo ve ikon düzenleri
-- Modern CSS özellikleriyle oluşturulmuş düzen ve hizalama
+- Minimalist ve sade tasarım, 2019 tarzı modern arama motoru düzenlerinden esinlenilmiştir
+- Responsive (duyarlı) tasarım; farklı ekran boyutlarına uyum sağlar
+- Arama çubuğu, logo ve simgelerin konumlandırılması eğitim amaçlı tasarlanmıştır
+- Düzen ve hizalama modern CSS teknikleri kullanılarak oluşturulmuştur
 
 ---
 
@@ -37,7 +34,7 @@ Amaç, modern web tasarım ilkelerini anlamak, responsive (duyarlı) tasarım pr
 1. Repoyu bilgisayarınıza klonlayın:
 
 ```bash
-git clone https://github.com/busrademirell/google-clone.git
+git clone https://github.com/busrademirell/edusearch-clone.git
 
 ```
 
