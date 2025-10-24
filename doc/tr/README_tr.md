@@ -7,7 +7,7 @@
   </a>
 </p>
  
- # Google 2019 Clone
+ # Modern Arama Ana Sayfa Klonu
 
 ## 🎯 Amaç
 
